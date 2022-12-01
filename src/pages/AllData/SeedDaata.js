@@ -56,9 +56,11 @@ export const Columns = [
         fixed: 'right',
         width: 100,
         render: () =>  
-        <Space size="middle">       
+        <Space size="middle"> 
+              
         {/* <Dropdown
-          menu={{
+        -----
+        menu={{
             items,
           }}
         >
