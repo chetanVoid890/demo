@@ -1,0 +1,33 @@
+/* ------------------------------- Cform Design ------------------------------- */
+
+/* Form */
+
+.Cform .ant-form-item {
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Expense Form Date Picket */
+.datepicker .ant-picker {
+  /* background-color: transparent; */
+  width: 100%;
+}
+
+/* Input */
+.Cform input.ant-input {
+  /* height: 32px; */
+  border-radius: 2px;
+}
+
+.Cform textarea.ant-input {
+  border-radius: 2px;
+}
+
+.countrList>div:nth-child(3) {
+  height: 32px;
+  border-radius: 2px;
+}
+
+.countrList>div>div>div {
+  height: 100%;
+}
